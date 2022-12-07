@@ -1,4 +1,13 @@
-# MI10LiteROM
+# 小米10青春版刷机包
+<h2>稳定版</h2>
+
+<h2>开发版</h2>
+
+<h2>线刷版</h2>
+
+
+
+
 
 https://xiaomifirmwareupdater.com/archive/miui/vangogh/
 稳定版
