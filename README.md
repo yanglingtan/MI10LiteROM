@@ -69,16 +69,6 @@
 <a href="https://bigota.d.miui.com/V11.0.10.0.QJVCNXM/vangogh_images_V11.0.10.0.QJVCNXM_20200601.0000.00_10.0_cn_3bf4e6fca3.tgz">vangogh_images_V11.0.10.0.QJVCNXM</a><br>
 <a href="https://bigota.d.miui.com/V12.0.3.0.QJVCNXM/vangogh_images_V12.0.3.0.QJVCNXM_20200620.0000.00_10.0_cn_cd89596665.tgz">vangogh_images_V12.0.3.0.QJVCNXM</a><br>
 
-http://bigota.d.miui.com/V12.0.3.0.QJVCNXM/vangogh_images_V12.0.3.0.QJVCNXM_20200620.0000.00_10.0_cn_cd89596665.tgz
 
 <a href="https://xiaomifirmwareupdater.com/archive/miui/vangogh/">Xiaomi Firmware Updater</a>
-
-
-线刷包
-vangogh_images_V11.0.6.0.QJVCNXM_20200507.0000.00_10.0_cn_8426390bea.tgz
-vangogh_images_V11.0.9.0.QJVCNXM_20200519.0000.00_10.0_cn_421888ca1c.tgz
-vangogh_images_V11.0.10.0.QJVCNXM_20200601.0000.00_10.0_cn_3bf4e6fca3.tgz
-vangogh_images_V12.0.3.0.QJVCNXM_20200620.0000.00_10.0_cn_cd89596665.tgz
-
-http://bigota.d.miui.com/V12.0.3.0.QJVCNXM/vangogh_images_V12.0.3.0.QJVCNXM_20200620.0000.00_10.0_cn_cd89596665.tgz
 
