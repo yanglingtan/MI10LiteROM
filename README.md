@@ -47,7 +47,7 @@
 <a href="https://bigota.d.miui.com/20.9.22/miui_VANGOGH_20.9.22_14852c3270_11.0.zip">miui_VANGOGH_20.9.22</a><br>
 <a href="https://bigota.d.miui.com/20.9.23/miui_VANGOGH_20.9.23_797d64b0eb_11.0.zip">miui_VANGOGH_20.9.23</a><br>
 <a href="https://bigota.d.miui.com/20.9.24/miui_VANGOGH_20.9.24_254630da48_11.0.zip">miui_VANGOGH_20.9.24</a><br>
-<a href="https://bigota.d.miui.com/20.9.28/miui_VANGOGH_20.9.28_3a9e7d2f93_11.0-1.zip">miui_VANGOGH_20.9.28</a><br>
+<a href="https://bigota.d.miui.com/20.9.28/miui_VANGOGH_20.9.28_3a9e7d2f93_11.0.zip">miui_VANGOGH_20.9.28</a><br>
 <a href="https://bigota.d.miui.com/20.9.29/miui_VANGOGH_20.9.29_6963135c6b_11.0.zip">miui_VANGOGH_20.9.29</a><br>
 <a href="https://bigota.d.miui.com/20.10.12/miui_VANGOGH_20.10.12_ebeb780620_11.0.zip">miui_VANGOGH_20.10.12</a><br>
 <a href="https://bigota.d.miui.com/20.10.13/miui_VANGOGH_20.10.13_3aea68d120_11.0.zip">miui_VANGOGH_20.10.13</a><br>
