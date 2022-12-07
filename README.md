@@ -1,7 +1,16 @@
 # 小米10青春版刷机包
 <h2>稳定版</h2>
 
-<a href="https://bigota.d.miui.com/V12.1.3.0.RJVCNXM/miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip">miui_VANGOGH_V12.1.3.0.RJVCNXM</a>
+<a href="https://bigota.d.miui.com/V11.0.6.0.QJVCNXM/miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip">miui_VANGOGH_V11.0.6.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V11.0.9.0.QJVCNXM/miui_VANGOGH_V11.0.9.0.QJVCNXM_dc2ba2a0bf_10.0.zip">miui_VANGOGH_V11.0.9.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V11.0.10.0.QJVCNXM/miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip">miui_VANGOGH_V11.0.10.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.0.3.0.QJVCNXM/miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip">miui_VANGOGH_V12.0.3.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.0.4.0.QJVCNXM/miui_VANGOGH_V12.0.4.0.QJVCNXM_6df6c7bdc6_10.0.zip">miui_VANGOGH_V12.0.4.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.0.5.0.QJVCNXM/miui_VANGOGH_V12.0.5.0.QJVCNXM_253473e9fe_10.0.zip">miui_VANGOGH_V12.0.5.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.0.6.0.QJVCNXM/miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip">miui_VANGOGH_V12.0.6.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.1.3.0.RJVCNXM/miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip">miui_VANGOGH_V12.1.3.0.RJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.1.4.0.RJVCNXM/miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip">miui_VANGOGH_V12.1.4.0.RJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.1.5.0.RJVCNXM/miui_VANGOGH_V12.1.5.0.RJVCNXM_9a008bf91e_11.0.zip">miui_VANGOGH_V12.1.5.0.RJVCNXM</a><br>
 
 <h2>开发版</h2>
 
