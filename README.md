@@ -1,6 +1,8 @@
 # 小米10青春版刷机包
 <h2>稳定版</h2>
 
+<a href="https://xiaomifirmwareupdater.com/archive/miui/vangogh/">刷机包</a>
+<a href="https://bigota.d.miui.com/V12.1.3.0.RJVCNXM/miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip">miui_VANGOGH_V12.1.3.0.RJVCNXM</a>
 <h2>开发版</h2>
 
 <h2>线刷版</h2>
