@@ -11,6 +11,7 @@
 <a href="https://bigota.d.miui.com/V12.1.3.0.RJVCNXM/miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip">miui_VANGOGH_V12.1.3.0.RJVCNXM</a><br>
 <a href="https://bigota.d.miui.com/V12.1.4.0.RJVCNXM/miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip">miui_VANGOGH_V12.1.4.0.RJVCNXM</a><br>
 <a href="https://bigota.d.miui.com/V12.1.5.0.RJVCNXM/miui_VANGOGH_V12.1.5.0.RJVCNXM_9a008bf91e_11.0.zip">miui_VANGOGH_V12.1.5.0.RJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V13.0.9.0.SJVCNXM/miui_VANGOGH_V13.0.9.0.SJVCNXM_eeb72f22d2_12.0.zip">miui_VANGOGH_V13.0.9.0.SJVCNXM</a><br>
 
 <h2>开发版</h2>
 
