@@ -1,39 +1,55 @@
 # 小米10青春版刷机包
 <h2>稳定版</h2>
 
+<h4>miui_VANGOGH_V11.0.6.0.QJVCNXM</h4>
 <a href="https://bigota.d.miui.com/V11.0.6.0.QJVCNXM/miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip">miui_VANGOGH_V11.0.6.0.QJVCNXM</a><br>
+<a href="http://bigota.d.miui.com/V11.0.6.0.QJVCNXM/miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip" target="_blank">卡刷包</a> | <a href="http://bigota.d.miui.com/V11.0.6.0.QJVCNXM/vangogh_images_V11.0.6.0.QJVCNXM_20200507.0000.00_10.0_cn_8426390bea.tgz" target="_blank">线刷包</a><br>
 
+<h4>miui_VANGOGH_V11.0.9.0.QJVCNXM</h4>
 <a href="https://bigota.d.miui.com/V11.0.9.0.QJVCNXM/miui_VANGOGH_V11.0.9.0.QJVCNXM_dc2ba2a0bf_10.0.zip">miui_VANGOGH_V11.0.9.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V11.0.9.0.QJVCNXM/miui_VANGOGH_V11.0.9.0.QJVCNXM_dc2ba2a0bf_10.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V11.0.9.0.QJVCNXM/vangogh_images_V11.0.9.0.QJVCNXM_20200519.0000.00_10.0_cn_421888ca1c.tgz" target="_blank">线刷包</a><br>
 
+<h4>miui_VANGOGH_V11.0.10.0.QJVCNXM</h4>
 <a href="https://bigota.d.miui.com/V11.0.10.0.QJVCNXM/miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip">miui_VANGOGH_V11.0.10.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V11.0.10.0.QJVCNXM/miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V11.0.10.0.QJVCNXM/vangogh_images_V11.0.10.0.QJVCNXM_20200601.0000.00_10.0_cn_3bf4e6fca3.tgz" target="_blank">线刷包</a><br>
 
+<h4>miui_VANGOGH_V12.0.3.0.QJVCNXM</h4>
 <a href="https://bigota.d.miui.com/V12.0.3.0.QJVCNXM/miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip">miui_VANGOGH_V12.0.3.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.0.3.0.QJVCNXM/miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.0.3.0.QJVCNXM/vangogh_images_V12.0.3.0.QJVCNXM_20200620.0000.00_10.0_cn_cd89596665.tgz" target="_blank">线刷包</a><br>
 
+<h4>miui_VANGOGH_V12.0.4.0.QJVCNXM</h4>
 <a href="https://bigota.d.miui.com/V12.0.4.0.QJVCNXM/miui_VANGOGH_V12.0.4.0.QJVCNXM_6df6c7bdc6_10.0.zip">miui_VANGOGH_V12.0.4.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.0.4.0.QJVCNXM/miui_VANGOGH_V12.0.4.0.QJVCNXM_6df6c7bdc6_10.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.0.4.0.QJVCNXM/vangogh_images_V12.0.4.0.QJVCNXM_20200709.0000.00_10.0_cn_ae553b6977.tgz" target="_blank">线刷包</a><br>
 
+<h4>miui_VANGOGH_V12.0.5.0.QJVCNXM</h4>
 <a href="https://bigota.d.miui.com/V12.0.5.0.QJVCNXM/miui_VANGOGH_V12.0.5.0.QJVCNXM_253473e9fe_10.0.zip">miui_VANGOGH_V12.0.5.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.0.5.0.QJVCNXM/miui_VANGOGH_V12.0.5.0.QJVCNXM_253473e9fe_10.0.zip" target="_blank">卡刷包</a>| <a href="https://bigota.d.miui.com/V12.0.5.0.QJVCNXM/vangogh_images_V12.0.5.0.QJVCNXM_20200804.0000.00_10.0_cn_d5e4e02840.tgz" target="_blank">线刷包</a><br>
 
+<h4>miui_VANGOGH_V12.0.6.0.QJVCNXM</h4>
 <a href="https://bigota.d.miui.com/V12.0.6.0.QJVCNXM/miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip">miui_VANGOGH_V12.0.6.0.QJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.0.6.0.QJVCNXM/miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip" target="_blank">卡刷包</a>|<a href="https://bigota.d.miui.com/V12.0.6.0.QJVCNXM/vangogh_images_V12.0.6.0.QJVCNXM_20200915.0000.00_10.0_cn_be6b7c8f00.tgz" target="_blank">线刷包</a><br>
 
+<h4>miui_VANGOGH_V12.1.3.0.RJVCNXM</h4>
 <a href="https://bigota.d.miui.com/V12.1.3.0.RJVCNXM/miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip">miui_VANGOGH_V12.1.3.0.RJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.1.3.0.RJVCNXM/miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.1.3.0.RJVCNXM/vangogh_images_V12.1.3.0.RJVCNXM_20201216.0000.00_11.0_cn_89dc9d3460.tgz" target="_blank">线刷包</a><br>
 
+<h4>miui_VANGOGH_V12.1.4.0.RJVCNXM</h4>
 <a href="https://bigota.d.miui.com/V12.1.4.0.RJVCNXM/miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip">miui_VANGOGH_V12.1.4.0.RJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.1.4.0.RJVCNXM/miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.1.4.0.RJVCNXM/vangogh_images_V12.1.4.0.RJVCNXM_20210105.0000.00_11.0_cn_8fc15625f2.tgz" target="_blank">线刷包</a><br>
 
+<h4>miui_VANGOGH_V12.1.5.0.RJVCNXM</h4>
 <a href="https://bigota.d.miui.com/V12.1.5.0.RJVCNXM/miui_VANGOGH_V12.1.5.0.RJVCNXM_9a008bf91e_11.0.zip">miui_VANGOGH_V12.1.5.0.RJVCNXM</a><br>
+<a href="https://bigota.d.miui.com/V12.1.5.0.RJVCNXM/miui_VANGOGH_V12.1.5.0.RJVCNXM_9a008bf91e_11.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.1.5.0.RJVCNXM/vangogh_images_V12.1.5.0.RJVCNXM_20210214.0000.00_11.0_cn_1fce9492d2.tgz" target="_blank">线刷包</a><br>
 
+
+<h4>miui_VANGOGH_V12.1.7.0.RJVCNXM</h4>
+<a href="https://bigota.d.miui.com/V12.1.7.0.RJVCNXM/miui_VANGOGH_V12.1.7.0.RJVCNXM_6862a5a869_11.0.zip" target="_blank">miui_VANGOGH_V12.1.7.0.RJVCNXM</a>
+<a href="https://bigota.d.miui.com/V12.1.7.0.RJVCNXM/miui_VANGOGH_V12.1.7.0.RJVCNXM_6862a5a869_11.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.1.7.0.RJVCNXM/vangogh_images_V12.1.7.0.RJVCNXM_20210422.0000.00_11.0_cn_e6f007eca2.tgz" target="_blank">线刷包</a><br>
+
+<h4>miui_VANGOGH_V13.0.9.0.SJVCNXM</h4>
 <a href="https://bigota.d.miui.com/V13.0.9.0.SJVCNXM/miui_VANGOGH_V13.0.9.0.SJVCNXM_eeb72f22d2_12.0.zip">miui_VANGOGH_V13.0.9.0.SJVCNXM</a><br>
 
-V11.0.6.0.QJVCNXM:<a href="http://bigota.d.miui.com/V11.0.6.0.QJVCNXM/miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip" target="_blank">卡刷包</a> | <a href="http://bigota.d.miui.com/V11.0.6.0.QJVCNXM/vangogh_images_V11.0.6.0.QJVCNXM_20200507.0000.00_10.0_cn_8426390bea.tgz" target="_blank">线刷包</a><br>
-V11.0.9.0.QJVCNXM:<a href="https://bigota.d.miui.com/V11.0.9.0.QJVCNXM/miui_VANGOGH_V11.0.9.0.QJVCNXM_dc2ba2a0bf_10.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V11.0.9.0.QJVCNXM/vangogh_images_V11.0.9.0.QJVCNXM_20200519.0000.00_10.0_cn_421888ca1c.tgz" target="_blank">线刷包</a><br>
-V11.0.10.0.QJVCNXM:<a href="https://bigota.d.miui.com/V11.0.10.0.QJVCNXM/miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V11.0.10.0.QJVCNXM/vangogh_images_V11.0.10.0.QJVCNXM_20200601.0000.00_10.0_cn_3bf4e6fca3.tgz" target="_blank">线刷包</a><br>
-V12.0.3.0.QJVCNXM:<a href="https://bigota.d.miui.com/V12.0.3.0.QJVCNXM/miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.0.3.0.QJVCNXM/vangogh_images_V12.0.3.0.QJVCNXM_20200620.0000.00_10.0_cn_cd89596665.tgz" target="_blank">线刷包</a><br>
-V12.0.4.0.QJVCNXM:<a href="https://bigota.d.miui.com/V12.0.4.0.QJVCNXM/miui_VANGOGH_V12.0.4.0.QJVCNXM_6df6c7bdc6_10.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.0.4.0.QJVCNXM/vangogh_images_V12.0.4.0.QJVCNXM_20200709.0000.00_10.0_cn_ae553b6977.tgz" target="_blank">线刷包</a><br>
-V12.0.5.0.QJVCNXM:<a href="https://bigota.d.miui.com/V12.0.5.0.QJVCNXM/miui_VANGOGH_V12.0.5.0.QJVCNXM_253473e9fe_10.0.zip" target="_blank">卡刷包</a>| <a href="https://bigota.d.miui.com/V12.0.5.0.QJVCNXM/vangogh_images_V12.0.5.0.QJVCNXM_20200804.0000.00_10.0_cn_d5e4e02840.tgz" target="_blank">线刷包</a><br>
-V12.0.6.0.QJVCNXM:<a href="https://bigota.d.miui.com/V12.0.6.0.QJVCNXM/miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip" target="_blank">卡刷包</a>|<a href="https://bigota.d.miui.com/V12.0.6.0.QJVCNXM/vangogh_images_V12.0.6.0.QJVCNXM_20200915.0000.00_10.0_cn_be6b7c8f00.tgz" target="_blank">线刷包</a><br>
-V12.1.3.0.RJVCNXM:<a href="https://bigota.d.miui.com/V12.1.3.0.RJVCNXM/miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.1.3.0.RJVCNXM/vangogh_images_V12.1.3.0.RJVCNXM_20201216.0000.00_11.0_cn_89dc9d3460.tgz" target="_blank">线刷包</a><br>
-V12.1.4.0.RJVCNXM:<a href="https://bigota.d.miui.com/V12.1.4.0.RJVCNXM/miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.1.4.0.RJVCNXM/vangogh_images_V12.1.4.0.RJVCNXM_20210105.0000.00_11.0_cn_8fc15625f2.tgz" target="_blank">线刷包</a><br>
-V12.1.5.0.RJVCNXM:<a href="https://bigota.d.miui.com/V12.1.5.0.RJVCNXM/miui_VANGOGH_V12.1.5.0.RJVCNXM_9a008bf91e_11.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.1.5.0.RJVCNXM/vangogh_images_V12.1.5.0.RJVCNXM_20210214.0000.00_11.0_cn_1fce9492d2.tgz" target="_blank">线刷包</a><br>
-V12.1.7.0.RJVCNXM:<a href="https://bigota.d.miui.com/V12.1.7.0.RJVCNXM/miui_VANGOGH_V12.1.7.0.RJVCNXM_6862a5a869_11.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.1.7.0.RJVCNXM/vangogh_images_V12.1.7.0.RJVCNXM_20210422.0000.00_11.0_cn_e6f007eca2.tgz" target="_blank">线刷包</a><br>
+ 
 V12.5.2.0.RJVCNXM:<a href="https://bigota.d.miui.com/V12.5.2.0.RJVCNXM/miui_VANGOGH_V12.5.2.0.RJVCNXM_0079a487b7_11.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.5.2.0.RJVCNXM/vangogh_images_V12.5.2.0.RJVCNXM_20210511.0000.00_11.0_cn_6a8b0bbf14.tgz" target="_blank">线刷包</a><br>
 V12.5.3.0.RJVCNXM:<a href="https://bigota.d.miui.com/V12.5.3.0.RJVCNXM/miui_VANGOGH_V12.5.3.0.RJVCNXM_6178afee6f_11.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.5.3.0.RJVCNXM/vangogh_images_V12.5.3.0.RJVCNXM_20210705.0000.00_11.0_cn_dfe6732625.tgz" target="_blank">线刷包</a><br>
 V12.5.4.0.RJVCNXM:<a href="https://bigota.d.miui.com/V12.5.4.0.RJVCNXM/miui_VANGOGH_V12.5.4.0.RJVCNXM_a56e4295ca_11.0.zip" target="_blank">卡刷包</a> | <a href="https://bigota.d.miui.com/V12.5.4.0.RJVCNXM/vangogh_images_V12.5.4.0.RJVCNXM_20210918.0000.00_11.0_cn_319f841bdc.tgz" target="_blank">线刷包</a><br>
